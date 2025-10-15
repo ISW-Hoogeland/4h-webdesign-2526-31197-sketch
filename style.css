@@ -35,3 +35,39 @@
 /************************* YOUR SETTINGS *************************/
 
 /* add your css here, feel free to use comments and order them logically for better readability */
+:root {
+   background: #fff4ec;
+   text-decoration-color: #2c3e50;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+   display: grid;
+   grid-template-areas: 
+   "header header"
+   "nav main"
+   "footer footer";
+   grid-template-columns: 1fr 1fr;
+   grid-template-rows: 120px 1fr 60px;
+}
+header {
+   margin: 0;
+   font-size: 2.4rem;
+}
+nav {
+   grid-area: nav;
+}
+nav ul {
+   list-style: none;
+   padding: 0;
+   margin: 0;
+}
+nav a:hover { 
+    text-decoration: underline; 
+}
+main {
+   grid-area: main;
+}
+footer {
+   grid-area: footer;
+}
