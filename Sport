@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Mijn introductie</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <header>Sport</header>
+  <nav>
+    <ul>
+      <li><a href="">Mijn introductie</a></li>
+      <li><a href="">Droombaan</a></li>
+    </ul>
+  </nav>
+  <main>Afbeeldingen</main>
+  <footer>Idk</footer>
+</body>
+
+</html>
