@@ -16,8 +16,16 @@
       <li><a href="Sport">Sport</a></li>
     </ul>
   </nav>
-  <main>Afbeeldingen</main>
-  <footer>Idk</footer>
+  <main>
+    <img src="" alt="Groep 8">
+    <img src="" alt="Frans+VWO">
+    <img src="" alt="Bela">
+  </main>
+  <footer>
+    Door: Suzanne van Broekhoven
+    School: ISW Hoogeland
+    Jaar: 2025
+  </footer>
 </body>
 
 </html>
