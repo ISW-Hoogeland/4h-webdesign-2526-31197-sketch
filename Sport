@@ -12,8 +12,8 @@
   <header>Sport</header>
   <nav>
     <ul>
-      <li><a href="">Mijn introductie</a></li>
-      <li><a href="">Droombaan</a></li>
+      <li><a href="index.html">Mijn introductie</a></li>
+      <li><a href="Droombaan">Droombaan</a></li>
     </ul>
   </nav>
   <main>Afbeeldingen</main>
